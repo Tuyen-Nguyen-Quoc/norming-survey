@@ -1,0 +1,682 @@
+{
+ "targets": [
+  {
+   "item_id": "T001",
+   "zh": "镜子",
+   "vi": "gương",
+   "en": "mirror"
+  },
+  {
+   "item_id": "T002",
+   "zh": "人物",
+   "vi": "nhân vật",
+   "en": "character"
+  },
+  {
+   "item_id": "T003",
+   "zh": "帽子",
+   "vi": "mũ",
+   "en": "hat"
+  },
+  {
+   "item_id": "T004",
+   "zh": "箱子",
+   "vi": "thùng",
+   "en": "box"
+  },
+  {
+   "item_id": "T005",
+   "zh": "婚礼",
+   "vi": "hôn lễ",
+   "en": "wedding"
+  },
+  {
+   "item_id": "T006",
+   "zh": "财产",
+   "vi": "tài sản",
+   "en": "property"
+  },
+  {
+   "item_id": "T007",
+   "zh": "理由",
+   "vi": "lý do",
+   "en": "reason"
+  },
+  {
+   "item_id": "T008",
+   "zh": "老板",
+   "vi": "sếp",
+   "en": "boss"
+  },
+  {
+   "item_id": "T009",
+   "zh": "标准",
+   "vi": "tiêu chuẩn",
+   "en": "standard"
+  },
+  {
+   "item_id": "T010",
+   "zh": "法律",
+   "vi": "pháp luật",
+   "en": "law"
+  },
+  {
+   "item_id": "T011",
+   "zh": "名单",
+   "vi": "danh sách",
+   "en": "list"
+  },
+  {
+   "item_id": "T012",
+   "zh": "合作",
+   "vi": "hợp tác",
+   "en": "cooperation"
+  },
+  {
+   "item_id": "T013",
+   "zh": "眼镜",
+   "vi": "mắt kính",
+   "en": "glasses"
+  },
+  {
+   "item_id": "T014",
+   "zh": "歌手",
+   "vi": "ca sĩ",
+   "en": "singer"
+  },
+  {
+   "item_id": "T015",
+   "zh": "责任",
+   "vi": "trách nhiệm",
+   "en": "responsibility"
+  },
+  {
+   "item_id": "T016",
+   "zh": "垃圾",
+   "vi": "rác",
+   "en": "trash"
+  },
+  {
+   "item_id": "T017",
+   "zh": "经理",
+   "vi": "quản lý",
+   "en": "manager"
+  },
+  {
+   "item_id": "T018",
+   "zh": "方向",
+   "vi": "phương hướng",
+   "en": "direction"
+  },
+  {
+   "item_id": "T019",
+   "zh": "冰箱",
+   "vi": "tủ lạnh",
+   "en": "fridge"
+  },
+  {
+   "item_id": "T020",
+   "zh": "媒体",
+   "vi": "truyền thông",
+   "en": "media"
+  },
+  {
+   "item_id": "T021",
+   "zh": "空间",
+   "vi": "không gian",
+   "en": "space"
+  },
+  {
+   "item_id": "T022",
+   "zh": "皮肤",
+   "vi": "da",
+   "en": "skin"
+  },
+  {
+   "item_id": "T023",
+   "zh": "饼干",
+   "vi": "bánh quy",
+   "en": "cookie"
+  },
+  {
+   "item_id": "T024",
+   "zh": "过程",
+   "vi": "quá trình",
+   "en": "process"
+  },
+  {
+   "item_id": "T025",
+   "zh": "客人",
+   "vi": "khách",
+   "en": "guest"
+  },
+  {
+   "item_id": "T026",
+   "zh": "愿望",
+   "vi": "nguyện vọng",
+   "en": "desire"
+  },
+  {
+   "item_id": "T027",
+   "zh": "天空",
+   "vi": "bầu trời",
+   "en": "sky"
+  },
+  {
+   "item_id": "T028",
+   "zh": "中心",
+   "vi": "trung tâm",
+   "en": "center"
+  },
+  {
+   "item_id": "T029",
+   "zh": "阿姨",
+   "vi": "dì",
+   "en": "aunt"
+  },
+  {
+   "item_id": "T030",
+   "zh": "银行",
+   "vi": "ngân hàng",
+   "en": "bank"
+  },
+  {
+   "item_id": "T031",
+   "zh": "作用",
+   "vi": "tác dụng",
+   "en": "function"
+  },
+  {
+   "item_id": "T032",
+   "zh": "窗户",
+   "vi": "cửa sổ",
+   "en": "window"
+  },
+  {
+   "item_id": "T033",
+   "zh": "材料",
+   "vi": "tài liệu",
+   "en": "material"
+  },
+  {
+   "item_id": "T034",
+   "zh": "头发",
+   "vi": "tóc",
+   "en": "hair"
+  },
+  {
+   "item_id": "T035",
+   "zh": "价值",
+   "vi": "giá trị",
+   "en": "value"
+  },
+  {
+   "item_id": "T036",
+   "zh": "面试",
+   "vi": "phỏng vấn",
+   "en": "interview"
+  },
+  {
+   "item_id": "T037",
+   "zh": "经济",
+   "vi": "kinh tế",
+   "en": "economy"
+  },
+  {
+   "item_id": "T038",
+   "zh": "好处",
+   "vi": "lợi ích",
+   "en": "benefit"
+  },
+  {
+   "item_id": "T039",
+   "zh": "肚子",
+   "vi": "bụng",
+   "en": "belly"
+  },
+  {
+   "item_id": "T040",
+   "zh": "政府",
+   "vi": "chính phủ",
+   "en": "government"
+  },
+  {
+   "item_id": "T041",
+   "zh": "结论",
+   "vi": "kết luận",
+   "en": "conclusion"
+  },
+  {
+   "item_id": "T042",
+   "zh": "味道",
+   "vi": "mùi vị",
+   "en": "taste"
+  },
+  {
+   "item_id": "T043",
+   "zh": "意义",
+   "vi": "ý nghĩa",
+   "en": "meaning"
+  },
+  {
+   "item_id": "T044",
+   "zh": "方法",
+   "vi": "phương pháp",
+   "en": "method"
+  },
+  {
+   "item_id": "T045",
+   "zh": "电梯",
+   "vi": "thang máy",
+   "en": "elevator"
+  },
+  {
+   "item_id": "T046",
+   "zh": "效果",
+   "vi": "hiệu quả",
+   "en": "effect"
+  },
+  {
+   "item_id": "T047",
+   "zh": "建筑",
+   "vi": "kiến trúc",
+   "en": "building"
+  },
+  {
+   "item_id": "T048",
+   "zh": "篮球",
+   "vi": "bóng rổ",
+   "en": "basketball"
+  },
+  {
+   "item_id": "T049",
+   "zh": "市场",
+   "vi": "thị trường",
+   "en": "market"
+  },
+  {
+   "item_id": "T050",
+   "zh": "科学",
+   "vi": "khoa học",
+   "en": "science"
+  },
+  {
+   "item_id": "T051",
+   "zh": "外套",
+   "vi": "áo khoác",
+   "en": "jacket"
+  },
+  {
+   "item_id": "T052",
+   "zh": "生意",
+   "vi": "kinh doanh",
+   "en": "business"
+  },
+  {
+   "item_id": "T053",
+   "zh": "方面",
+   "vi": "phương diện",
+   "en": "aspect"
+  },
+  {
+   "item_id": "T054",
+   "zh": "艺术",
+   "vi": "nghệ thuật",
+   "en": "art"
+  },
+  {
+   "item_id": "T055",
+   "zh": "年龄",
+   "vi": "tuổi",
+   "en": "age"
+  },
+  {
+   "item_id": "T056",
+   "zh": "耳朵",
+   "vi": "tai",
+   "en": "ear"
+  },
+  {
+   "item_id": "T057",
+   "zh": "交通",
+   "vi": "giao thông",
+   "en": "transport"
+  },
+  {
+   "item_id": "T058",
+   "zh": "裙子",
+   "vi": "váy",
+   "en": "skirt"
+  },
+  {
+   "item_id": "T059",
+   "zh": "邻居",
+   "vi": "hàng xóm",
+   "en": "neighbour"
+  },
+  {
+   "item_id": "T060",
+   "zh": "社会",
+   "vi": "xã hội",
+   "en": "society"
+  },
+  {
+   "item_id": "T061",
+   "zh": "衬衫",
+   "vi": "sơ mi",
+   "en": "shirt"
+  },
+  {
+   "item_id": "T062",
+   "zh": "战争",
+   "vi": "chiến tranh",
+   "en": "war"
+  },
+  {
+   "item_id": "T063",
+   "zh": "顾客",
+   "vi": "khách hàng",
+   "en": "customer"
+  },
+  {
+   "item_id": "T064",
+   "zh": "心理",
+   "vi": "tâm lý",
+   "en": "psychology"
+  },
+  {
+   "item_id": "T065",
+   "zh": "屋子",
+   "vi": "phòng",
+   "en": "room"
+  },
+  {
+   "item_id": "T066",
+   "zh": "星期",
+   "vi": "tuần",
+   "en": "week"
+  },
+  {
+   "item_id": "T067",
+   "zh": "理想",
+   "vi": "lý tưởng",
+   "en": "ideal"
+  },
+  {
+   "item_id": "T068",
+   "zh": "鸡蛋",
+   "vi": "trứng",
+   "en": "egg"
+  },
+  {
+   "item_id": "T069",
+   "zh": "经验",
+   "vi": "kinh nghiệm",
+   "en": "experience"
+  },
+  {
+   "item_id": "T070",
+   "zh": "权力",
+   "vi": "quyền lực",
+   "en": "power"
+  },
+  {
+   "item_id": "T071",
+   "zh": "合同",
+   "vi": "hợp đồng",
+   "en": "contract"
+  },
+  {
+   "item_id": "T072",
+   "zh": "答案",
+   "vi": "đáp án",
+   "en": "answer"
+  },
+  {
+   "item_id": "T073",
+   "zh": "和平",
+   "vi": "hòa bình",
+   "en": "peace"
+  },
+  {
+   "item_id": "T074",
+   "zh": "历史",
+   "vi": "lịch sử",
+   "en": "history"
+  },
+  {
+   "item_id": "T075",
+   "zh": "文化",
+   "vi": "văn hóa",
+   "en": "culture"
+  },
+  {
+   "item_id": "T076",
+   "zh": "态度",
+   "vi": "thái độ",
+   "en": "attitude"
+  },
+  {
+   "item_id": "T077",
+   "zh": "状态",
+   "vi": "trạng thái",
+   "en": "state"
+  },
+  {
+   "item_id": "T078",
+   "zh": "报纸",
+   "vi": "báo",
+   "en": "newspaper"
+  },
+  {
+   "item_id": "T079",
+   "zh": "内容",
+   "vi": "nội dung",
+   "en": "content"
+  },
+  {
+   "item_id": "T080",
+   "zh": "楼梯",
+   "vi": "cầu thang",
+   "en": "stairs"
+  },
+  {
+   "item_id": "T081",
+   "zh": "目的",
+   "vi": "mục đích",
+   "en": "purpose"
+  },
+  {
+   "item_id": "T082",
+   "zh": "理论",
+   "vi": "lý luận",
+   "en": "theory"
+  },
+  {
+   "item_id": "T083",
+   "zh": "教育",
+   "vi": "giáo dục",
+   "en": "education"
+  },
+  {
+   "item_id": "T084",
+   "zh": "活动",
+   "vi": "hoạt động",
+   "en": "activity"
+  },
+  {
+   "item_id": "T085",
+   "zh": "老婆",
+   "vi": "vợ",
+   "en": "wife"
+  },
+  {
+   "item_id": "T086",
+   "zh": "苹果",
+   "vi": "táo",
+   "en": "apple"
+  },
+  {
+   "item_id": "T087",
+   "zh": "条件",
+   "vi": "điều kiện",
+   "en": "condition"
+  },
+  {
+   "item_id": "T088",
+   "zh": "设备",
+   "vi": "thiết bị",
+   "en": "equipment"
+  },
+  {
+   "item_id": "T089",
+   "zh": "啤酒",
+   "vi": "bia",
+   "en": "beer"
+  },
+  {
+   "item_id": "T090",
+   "zh": "产品",
+   "vi": "sản phẩm",
+   "en": "product"
+  },
+  {
+   "item_id": "T091",
+   "zh": "水平",
+   "vi": "trình độ",
+   "en": "level"
+  },
+  {
+   "item_id": "T092",
+   "zh": "政治",
+   "vi": "chính trị",
+   "en": "politics"
+  },
+  {
+   "item_id": "T093",
+   "zh": "观众",
+   "vi": "khán giả",
+   "en": "audience"
+  },
+  {
+   "item_id": "T094",
+   "zh": "石头",
+   "vi": "đá",
+   "en": "stone"
+  }
+ ],
+ "pseudowords": {
+  "zh": [
+   {
+    "item_id": "NW01",
+    "text": "门笔"
+   },
+   {
+    "item_id": "NW02",
+    "text": "树饭"
+   },
+   {
+    "item_id": "NW03",
+    "text": "鱼钟"
+   },
+   {
+    "item_id": "NW04",
+    "text": "灯羊"
+   }
+  ],
+  "vi": [
+   {
+    "item_id": "NW05",
+    "text": "gạch thuở"
+   },
+   {
+    "item_id": "NW06",
+    "text": "mành khuỵu"
+   },
+   {
+    "item_id": "NW07",
+    "text": "ngõ bút"
+   },
+   {
+    "item_id": "NW08",
+    "text": "đèo vải"
+   }
+  ],
+  "en": [
+   {
+    "item_id": "NW09",
+    "text": "plonter"
+   },
+   {
+    "item_id": "NW10",
+    "text": "brastel"
+   },
+   {
+    "item_id": "NW11",
+    "text": "glimber"
+   },
+   {
+    "item_id": "NW12",
+    "text": "fosket"
+   }
+  ]
+ },
+ "practice": {
+  "familiarity": {
+   "zh": [
+    {
+     "item_id": "PR01",
+     "text": "朋友"
+    },
+    {
+     "item_id": "PR02",
+     "text": "蜡烛"
+    }
+   ],
+   "vi": [
+    {
+     "item_id": "PR03",
+     "text": "xe đạp"
+    },
+    {
+     "item_id": "PR04",
+     "text": "khúc khuỷu"
+    }
+   ],
+   "en": [
+    {
+     "item_id": "PR05",
+     "text": "teacher"
+    },
+    {
+     "item_id": "PR06",
+     "text": "ephemeral"
+    }
+   ]
+  },
+  "similarity": [
+   {
+    "item_id": "PR07",
+    "zh": "电话",
+    "vi": "điện thoại"
+   },
+   {
+    "item_id": "PR08",
+    "zh": "桌子",
+    "vi": "bàn"
+   }
+  ],
+  "meaning_en": [
+   {
+    "item_id": "PR09",
+    "zh": "电脑",
+    "en": "computer"
+   },
+   {
+    "item_id": "PR10",
+    "zh": "房子",
+    "en": "home"
+   }
+  ]
+ }
+}
