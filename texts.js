@@ -15,20 +15,20 @@ const TEXTS = {
   studyInfoHtml: `
     <p>Tên nghiên cứu: Sự đồng kích hoạt ngôn ngữ ở những người sử dụng ba ngôn ngữ Việt - Anh – Trung</p>
     <p>Mục đích: Nghiên cứu tìm hiểu cách người học cả tiếng Anh và tiếng Trung nhận biết và xử lý từ vựng của ba ngôn ngữ. Khảo sát này thu thập đánh giá của bạn về một số từ tiếng Trung, tiếng Việt và tiếng Anh; kết quả được dùng để chọn từ cho các thí nghiệm tiếp theo.
-    <p>Bạn sẽ làm gì:
-1. Đánh giá mức độ quen thuộc của từng từ (thang điểm 1–7).
-2. Đánh giá mức độ giống nhau về âm và về nghĩa giữa các cặp từ tiếng Việt – tiếng Trung.
-3. Đánh giá mức độ giống nhau về nghĩa giữa các cặp từ tiếng Anh – tiếng Trung.</p>
+    <p>Bạn sẽ làm gì:</p>
+<p>1. Đánh giá mức độ quen thuộc của từng từ (thang điểm 1–7).</p>
+<p>2. Đánh giá mức độ giống nhau về âm và về nghĩa giữa các cặp từ tiếng Việt – tiếng Trung.</p>
+<p>3. Đánh giá mức độ giống nhau về nghĩa giữa các cặp từ tiếng Anh – tiếng Trung.</p>
     <p>Không có câu trả lời đúng hay sai. Bạn có thể tạm dừng và quay lại bằng chính đường link này.</p>
     <p>Quyền lợi: Khoản tiền 65,000đ. Bạn cũng góp phần giúp hiểu rõ hơn việc học nhiều ngoại ngữ.</p>
     <p>Rủi ro: Nghiên cứu không có rủi ro đáng kể. Bạn có thể thấy hơi mệt vì phải tập trung khá lâu, vì vậy hãy nghỉ giữa các phần nếu cần.
 </p>
-    <p>Đồng ý tham gia
-Khi đánh dấu vào ô đồng ý ở cuối trang, bạn xác nhận rằng:
-1. Bạn đã đọc và hiểu các thông tin về nghiên cứu ở trên.
-2. Bạn từ đủ 18 tuổi trở lên.
-3. Bạn tham gia hoàn toàn tự nguyện và có thể dừng bất cứ lúc nào mà không cần nêu lý do.
-4. Bạn đồng ý để nhóm nghiên cứu sử dụng câu trả lời của mình cho mục đích nghiên cứu, theo cam kết bảo mật dưới đây.</p>
+    <p>Đồng ý tham gia</p>
+<p>Khi đánh dấu vào ô đồng ý ở cuối trang, bạn xác nhận rằng:</p>
+<p>1. Bạn đã đọc và hiểu các thông tin về nghiên cứu ở trên.</p>
+<p>2. Bạn từ đủ 18 tuổi trở lên.</p>
+<p>3. Bạn tham gia hoàn toàn tự nguyện và có thể dừng bất cứ lúc nào mà không cần nêu lý do.</p>
+<p>4. Bạn đồng ý để nhóm nghiên cứu sử dụng câu trả lời của mình cho mục đích nghiên cứu, theo cam kết bảo mật dưới đây.</p>
   `,
 
   durationText: 'Thời gian dự kiến: khoảng 45–50 phút, có giờ nghỉ ở giữa.',
