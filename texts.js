@@ -13,17 +13,17 @@ const TEXTS = {
 
   // Study information and consent: replace the bracketed text with your approved wording.
   studyInfoHtml: `
-    <p>Tên nghiên cứu: Sự đồng kích hoạt ngôn ngữ ở những người sử dụng ba ngôn ngữ Việt - Anh – Trung</p>
-    <p>Mục đích: Nghiên cứu tìm hiểu cách người học cả tiếng Anh và tiếng Trung nhận biết và xử lý từ vựng của ba ngôn ngữ. Khảo sát này thu thập đánh giá của bạn về một số từ tiếng Trung, tiếng Việt và tiếng Anh; kết quả được dùng để chọn từ cho các thí nghiệm tiếp theo.
-    <p>Bạn sẽ làm gì:</p>
-<p>1. Đánh giá mức độ quen thuộc của từng từ (thang điểm 1–7).</p>
-<p>2. Đánh giá mức độ giống nhau về âm và về nghĩa giữa các cặp từ tiếng Việt – tiếng Trung.</p>
-<p>3. Đánh giá mức độ giống nhau về nghĩa giữa các cặp từ tiếng Anh – tiếng Trung.</p>
+    <p><b>Tên nghiên cứu</b>: Sự đồng kích hoạt ngôn ngữ ở những người sử dụng ba ngôn ngữ Việt - Anh – Trung</p>
+    <p><b>Mục đích</b>: Nghiên cứu tìm hiểu cách người học cả tiếng Anh và tiếng Trung nhận biết và xử lý từ vựng của ba ngôn ngữ. Khảo sát này thu thập đánh giá của bạn về một số từ tiếng Trung, tiếng Việt và tiếng Anh; kết quả được dùng để chọn từ cho các thí nghiệm tiếp theo.
+    <p><b>Bạn sẽ làm gì</b>:</p>
+<p>1. Đánh giá mức độ <b>quen thuộc</b> của từng từ (thang điểm 1–7).</p>
+<p>2. Đánh giá mức độ <b>giống nhau</b> về âm và về nghĩa giữa các cặp từ <b>tiếng Việt – tiếng Trung</b>.</p>
+<p>3. Đánh giá mức độ <b>giống nhau</b> về nghĩa giữa các cặp từ <b>tiếng Anh – tiếng Trung</b>.</p>
     <p>Không có câu trả lời đúng hay sai. Bạn có thể tạm dừng và quay lại bằng chính đường link này.</p>
-    <p>Quyền lợi: Khoản tiền 65,000đ. Bạn cũng góp phần giúp hiểu rõ hơn việc học nhiều ngoại ngữ.</p>
+    <p>Quyền lợi: <b>Khoản tiền 65,000đ</b>. Bạn cũng góp phần giúp hiểu rõ hơn việc học nhiều ngoại ngữ.</p>
     <p>Rủi ro: Nghiên cứu không có rủi ro đáng kể. Bạn có thể thấy hơi mệt vì phải tập trung khá lâu, vì vậy hãy nghỉ giữa các phần nếu cần.
 </p>
-    <p>Đồng ý tham gia</p>
+    <p><b>Đồng ý tham gia</b></p>
 <p>Khi đánh dấu vào ô đồng ý ở cuối trang, bạn xác nhận rằng:</p>
 <p>1. Bạn đã đọc và hiểu các thông tin về nghiên cứu ở trên.</p>
 <p>2. Bạn từ đủ 18 tuổi trở lên.</p>
