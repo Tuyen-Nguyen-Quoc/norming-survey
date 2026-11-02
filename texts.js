@@ -37,8 +37,12 @@ const TEXTS = {
   participantHeading: 'Thông tin người tham gia',
 
   confidentialityHtml: `
-    <p>Thông tin cá nhân mà bạn cung cấp dưới đây (họ và tên, mã số sinh viên, email, số điện thoại) sẽ được giữ bí mật nghiêm ngặt và chỉ được sử dụng cho mục đích nghiên cứu. Thông tin này được lưu riêng, tách biệt với các câu trả lời của bạn; các câu trả lời chỉ được phân tích theo mã số người tham gia, không gắn với tên của bạn. Chỉ nhóm nghiên cứu được tiếp cận thông tin của bạn, và thông tin sẽ không được chia sẻ với bất kỳ bên nào khác. Kết quả nghiên cứu chỉ được công bố dưới dạng tổng hợp, không nêu danh tính người tham gia. Việc tham gia là hoàn toàn tự nguyện: bạn có thể dừng bất cứ lúc nào mà không cần nêu lý do, và có thể yêu cầu xóa dữ liệu của mình bằng cách liên hệ nhóm nghiên cứu. Thông tin cá nhân sẽ được xóa khi không còn cần thiết cho nghiên cứu.</p>
-    <p>Nếu có thắc mắc, vui lòng liên hệ: Thầy Nguyễn Quốc Tuyển, tuyen.nq@ou.edu.vn hoặc Cô Hoàng Diễm Phúc, phuc.hd@ou.edu.vn.</p>
+    <p>Thông tin cá nhân mà bạn cung cấp dưới đây (họ và tên, mã số sinh viên, email, số điện thoại) sẽ được giữ bí mật nghiêm ngặt và chỉ được sử dụng cho mục đích nghiên cứu. Thông tin này được lưu riêng, tách biệt với các câu trả lời của bạn. Chỉ nhóm nghiên cứu được tiếp cận thông tin của bạn, và thông tin sẽ không được chia sẻ với bất kỳ bên nào khác. Kết quả nghiên cứu chỉ được công bố dưới dạng tổng hợp, không nêu danh tính người tham gia.</p>
+    <p>Việc tham gia là hoàn toàn tự nguyện: bạn có thể dừng bất cứ lúc nào mà không cần nêu lý do, và có thể yêu cầu xóa dữ liệu của mình bằng cách liên hệ nhóm nghiên cứu.</p>
+    <p>Thông tin cá nhân sẽ được xóa khi không còn cần thiết cho nghiên cứu.</p>
+    <p>Nếu có thắc mắc, vui lòng liên hệ:</p>
+    <p>Thầy Nguyễn Quốc Tuyển, tuyen.nq@ou.edu.vn</p>
+    <p>Cô Hoàng Diễm Phúc, phuc.hd@ou.edu.vn.</p>
   `,
 
   raterIdShown: 'Mã người tham gia của bạn: {id}',
